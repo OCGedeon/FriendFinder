@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/OCGedeon/FriendFinder/issues"
   },
-  "homepage": "https://github.com/OCGedeon/FriendFinder#readme"
+  "homepage": "https://github.com/OCGedeon/FriendFinder#readme",
+  "dependencies": {
+    "node": "^11.4.0"
+  }
 }
