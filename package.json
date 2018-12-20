@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "FriendFinder",
+  "main": "server.js",
+  "scripts": {
+    "test": "testing friendship",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OCGedeon/FriendFinder.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Charles Gedeon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OCGedeon/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/OCGedeon/FriendFinder#readme"
+}
