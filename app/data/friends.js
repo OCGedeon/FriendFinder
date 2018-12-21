@@ -1,7 +1,7 @@
 {
-    "name":"Carlos",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-    "scores":[
+    "name","Carlos",
+    "photo","https://media.licdn.com/dms/image/C5603AQFcEmV7Mly5Fw/profile-displayphoto-shrink_200_200/0?e=1550707200&v=beta&t=HQqUSfplcVu_7SGt868B3ELQQ0JBmMSNm_QFy6pSAn0",
+    "scores",[
         5,
         1,
         4,
@@ -14,4 +14,51 @@
         1
       ]
   }
-  
+  {
+    "name","Natasha Thomas",
+    "photo","https://media.licdn.com/dms/image/C4D03AQGHyp-tqwrdJw/profile-displayphoto-shrink_800_800/0?e=1550707200&v=beta&t=zPMg-1YTVSeQdQdHw1qRoYfIR1YlE0sUKhoBSqyZg14",
+    "scores",[
+        3,
+        2,
+        2,
+        4,
+        2,
+        2,
+        1,
+        4,
+        5,
+        2
+      ]
+  }
+  {
+    "name","Sasha Patsel",
+    "photo","https://media.licdn.com/dms/image/C4E03AQFdezVeoePcmA/profile-displayphoto-shrink_800_800/0?e=1550707200&v=beta&t=kO89TLU6cZo4VrH580vssPwtD9Df1afkBBL-cWsrf2U",
+    "scores",[
+        4,
+        3,
+        1,
+        1,
+        1,
+        4,
+        5,
+        2,
+        3,
+        5
+      ]
+  }
+  {
+    "name","Magda Sarkissian",
+    "photo","https://media.licdn.com/dms/image/C5103AQEjt8T5x1Z9cg/profile-displayphoto-shrink_800_800/0?e=1550707200&v=beta&t=NL2FdRMNlUeCZpBfjAf40lsFbKZ0ohtUgcLE1Be8sUI",
+    "scores",[
+        5,
+        4,
+        3,
+        2,
+        1,
+        5,
+        4,
+        3,
+        2,
+        1
+      ]
+  }
