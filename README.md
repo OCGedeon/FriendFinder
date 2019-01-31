@@ -1,28 +1,21 @@
 # FriendFinder
 
-Friend Finder 
+![Screenshot](app/public/img/friends.png)
 
-Description
+### Description
 Friend Finder is very similar to a dating app but for you to find friends with common interests. Depending on a short survey you fill out Friend Finder will match you with your ideal match to enjoy spending your free time with. 
 
 
-Demo
+### Demo
 Friend Finder is deployed to Heroku. Please check it out here. (When it works :/)
 
-Installation Instructions
-
+### Installation Instructions
 To install the application follow the instructions below:
-
 (In your Terminal)
-
 git clone https://github.com/OCGedeon/FriendFinder.git
-
 cd friend-finder
-
 npm install
-
 Running Locally
-
 To run the application locally and access it in your browser, first set the PORT environment variable to the value of your choice. An example is shown below.
 
 export PORT=3030
